@@ -15,3 +15,4 @@ Feel free to experiment and by all means DO SHARE your code in here but allow me
 Contact me at Techne.Moira@gmail.com
 
 Good luck and have fun :)
+P.S.: To correctly interpret/compile the code you WILL have to include the correct (16.5MHz) Digispark85 library in the Sketch editor
